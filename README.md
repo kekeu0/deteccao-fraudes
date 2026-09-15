@@ -1,0 +1,1 @@
+Os resultados monstraram que a acurácia não é uma boa métrica para avaliar este problema, devido ao forte desbalanceamento do conjunto de dados. E o Random Forest foi o que teve o melhor equilíbrio entre precision e recall, detectando 117 das 148 fraudes no conjunto de teste, com apenas 43 falsos positivos.
